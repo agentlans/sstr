@@ -1,0 +1,2 @@
+# sstr
+Simple string library
